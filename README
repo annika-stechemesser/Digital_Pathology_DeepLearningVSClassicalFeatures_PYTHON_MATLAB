@@ -1,0 +1,11 @@
+
+README CS904 Assignment 3 Annika Stechemesser 
+
+The jupyter notebooks handed in for this assignment need the Kather2016 data set to run, which isn't included because of space issues (max. submission 50 MB). If you with to run the notebooks please add the images in the right folder. 
+
+The matlab files need the textures.zip folder from the CS904 webpage (Lab 9) to run. This also couldn't be included because of space issues. If you wish to run the matlab files please download the folder and add it to the path. 
+
+Also the whole slide image from the webpage CS904 webpage is needed to run the matlab code. Please add it and name it according to the code if you wish to run it.
+
+Sorry for the inconvenience.
+
